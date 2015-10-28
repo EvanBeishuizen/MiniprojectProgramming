@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:nsd="http://structorizer.fisch.lu/" text="&#34;class qr()&#34;" comment="&#34;&#34;" color="ffffff" type="program" style="nice">
+	<children>
+		<instruction text="&#34;create_qr()&#34;" comment="&#34;Er wordt een qr code gemaakt van het reisid dat meegestuurd is.&#34;,&#34;Het qr plaatje dat gegenereerd is krijgt het reisid als naam.&#34;,&#34;bijvoorbeeld 3.svg&#34;" color="ffffff" rotated="0"></instruction>
+	</children>
+</root>

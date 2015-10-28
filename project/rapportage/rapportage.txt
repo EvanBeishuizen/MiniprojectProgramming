@@ -1,0 +1,5 @@
+Aantal reizen per ov-nummer:
+1 : 3
+55 : 3
+3543543685 : 1
+kak : 1

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:nsd="http://structorizer.fisch.lu/" text="&#34;class database()&#34;" comment="&#34;&#34;" color="ffffff" type="program" style="nice">
+	<children>
+		<instruction text="&#34;__init__()&#34;" comment="&#34;De naam van de database wordt ingesteld op de variabele &#34;&#34;db&#34;&#34; van het object&#34;" color="ffffff" rotated="0"></instruction>
+		<instruction text="&#34;setup()&#34;" comment="&#34;Voert de functie &#34;&#34;checkIfDatabaseExists&#34;&#34; uit&#34;" color="ffffff" rotated="0"></instruction>
+		<instruction text="&#34;checkIfDatabaseExists()&#34;" comment="&#34;Controleert of de database al bestaat.&#34;,&#34;Als de database nog niet bestaat, wordt de functie &#34;&#34;create_db&#34;&#34; uitgevoerd&#34;" color="ffffff" rotated="0"></instruction>
+		<instruction text="&#34;create_db()&#34;" comment="&#34;De database en de tabel wordt aangemaakt&#34;" color="ffffff" rotated="0"></instruction>
+		<instruction text="&#34;insert_traveldata()&#34;" comment="&#34;De volgende gegevens worden naar de database geschreven: &#34;,&#34;naam, ov-nummer, beginstation en eindstation&#34;" color="ffffff" rotated="0"></instruction>
+		<instruction text="&#34;get_travelID()&#34;" comment="&#34;Het laatste reisID wordt opgehaald doormiddel van het ov_nummer&#34;" color="ffffff" rotated="0"></instruction>
+		<instruction text="&#34;get_traveldata()&#34;" comment="&#34;Alle reisdata(reisID, ov_nummer, naam, beginstation en eindstation) wordt opgehaald doormiddel van het ov_nummer&#34;" color="ffffff" rotated="0"></instruction>
+		<instruction text="&#34;get_countOV()&#34;" comment="&#34;Er wordt een lijst opgehaald hoeveel reizen er gemaakt zijn met per ov_nummer&#34;" color="ffffff" rotated="0"></instruction>
+		<instruction text="&#34;get_countBS()&#34;" comment="&#34;Er wordt een lijst opgehaald hoevaak elk beginstation voorkomt in de database&#34;" color="ffffff" rotated="0"></instruction>
+		<instruction text="&#34;get_countES()&#34;" comment="&#34;Er wordt een lijst opgehaald hoevaak elk eindstation voorkomt in de database&#34;" color="ffffff" rotated="0"></instruction>
+	</children>
+</root>

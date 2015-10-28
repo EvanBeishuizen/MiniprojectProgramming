@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:nsd="http://structorizer.fisch.lu/" text="&#34;class reis_database_ui()&#34;" comment="&#34;&#34;" color="ffffff" type="program" style="nice">
+	<children>
+		<instruction text="&#34;setupUI()&#34;" comment="&#34;Het root venster wordt gemaakt met de bijbehorende widgets.&#34;,&#34;Als het knopje &#34;&#34;invoer&#34;&#34; wordt ingedrukt wordt de functie &#34;&#34;send&#34;&#34; aangeroepen&#34;,&#34;en wordt de data van de invoer vensters meegestuurd.&#34;" color="ffffff" rotated="0"></instruction>
+		<instruction text="&#34;send()&#34;" comment="&#34;De meegestuurde invoer data wordt verstuurd naar de functie send_data in de reis_database class.&#34;" color="ffffff" rotated="0"></instruction>
+	</children>
+</root>
